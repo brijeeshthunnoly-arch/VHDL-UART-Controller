@@ -1,6 +1,6 @@
 # VHDL UART Controller (TX & RX)
 
-A robust, fully synchronous **UART (Universal Asynchronous Receiver-Transmitter)** implementation in VHDL, designed for FPGA deployment.  
+A robust, **UART (Universal Asynchronous Receiver-Transmitter)** implementation in VHDL, designed for FPGA deployment.  
 Tested with a **50 MHz system clock** and **115,200 baud rate**, and fully parameterized for flexible configurations.
 
 ---
